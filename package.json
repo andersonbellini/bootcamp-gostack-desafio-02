@@ -6,7 +6,11 @@
   "author": "anderson.bellini <anderson.bellini@anac.gov.br>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^5.8.7",
+    "yup": "^0.27.0"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
