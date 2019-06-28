@@ -14,10 +14,9 @@ Esse projeto também será utilizado para a certificação do bootcamp, então b
 Aplicação
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app agregador de eventos para desenvolvedores chamado Meetapp (um acrônimo à Meetup + App).
 
-Nesse primeiro desafio vamos criar algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui.
+Nesse primeiro desafio vamos criar algumas funcionalidades básicas.
 
 Funcionalidades
-Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplicação.
 
 Autenticação
 Permita que um usuário se autentique em sua aplicação utilizando e-mail e senha.

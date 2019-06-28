@@ -5,15 +5,20 @@
   "repository": "https://github.com/andersonbellini/bootcamp-gostack-desafio-02.git",
   "author": "anderson.bellini <anderson.bellini@anac.gov.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
-    "express": "^4.17.1",
     "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "sequelize": "^5.8.7",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.9.0",
     "yup": "^0.27.0"
   },
   "devDependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.18.0",
