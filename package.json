@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/andersonbellini/bootcamp-gostack-desafio-02.git",
-  "author": "anderson.bellini <anderson.bellini@anac.gov.br>",
+  "author": "anderson.bellini <andersonunip@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/server.js"
